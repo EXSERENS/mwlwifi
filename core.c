@@ -86,6 +86,7 @@ static const struct ieee80211_channel mwl_channels_50[] = {
 	{ .band = NL80211_BAND_5GHZ, .center_freq = 5765, .hw_value = 153, },
 	{ .band = NL80211_BAND_5GHZ, .center_freq = 5785, .hw_value = 157, },
 	{ .band = NL80211_BAND_5GHZ, .center_freq = 5805, .hw_value = 161, },
+	{ .band = NL80211_BAND_5GHZ, .center_freq = 5825, .hw_value = 165, },
 };
 
 static const struct ieee80211_rate mwl_rates_50[] = {
